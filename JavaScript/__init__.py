@@ -4,3 +4,4 @@ from JavaScript import jsrunner
 from JavaScript import jscompiler
 from JavaScript import lib
 from JavaScript import jsutils
+from JavaScript.jsrunner import *
